@@ -18,7 +18,7 @@
 
 # Plans
 - Implement security features to counter typical security problems
-- Mobile app
+- Possible mobile app feature in the future
 
 # License
 - MIT License
